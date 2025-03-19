@@ -2,13 +2,12 @@
 
 Tools Used: Excel and Power bi
 
-Project Summary:
+## Project Summary:
 
 A Superstore Giant based in the United State supply products such as Furniture, Office Supplies and Technology, targeting three(3) segments of customers - Corporate, Consumers and Home Office.
 With growing demands and cut_throat competition in the market, the store is seeking knowledge in understanding what works best for them. they would like to understand which products, regions, categories and customer segments they should target or avoid.
 
-Results:
-
+## Results:
 ![new_p1](https://user-images.githubusercontent.com/60974441/170834868-fbbb485e-9747-4d8b-b08a-b219cb4644b9.PNG)
 
 The company supplies products to 531 cities in the United State, making a total sales of 2.30M, selling to a total of 793 customers. They make an average profit of $28.66.
