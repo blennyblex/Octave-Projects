@@ -1,4 +1,4 @@
-This is my submission to the Octave Data and Analytics Solution Project on superstore analysis.
+# SuperStore Analysis
 
 Tools Used: Excel and Power bi
 
